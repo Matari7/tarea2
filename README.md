@@ -1,10 +1,22 @@
 # tarea2
- 
-# Documentation
-
 ## Colaboradores
 - Cristian Caiza
 - Ariel Campoverde
+
+## Como Instalar
+Para instalar el programa se necesita instalar Python en el sistema
+
+## COMO CORRE EL PROGRAMA
+Ejecutando en el
+```bash```
+python app.py
+
+## COMO FUNCIONA
+El programa ejecutará las funciones expensive_computation y mostrará el tiempo tomado para las operaciones iniciales y subsecuentes, utilizando la caché para optimizar el rendimiento.
+ 
+
+# Documentation
+
 
 ## What is HATEOAS?
 HATEOAS is an acronym that stands for 'Hypermedia as the Engine of Application State'. This term, introduced by Fielding as part of his REST definition, describes one of the key REST properties: since the architecture style is supposed to provide a universal interface, HATEOAS requires the REST client to only move through the web application by following URIs (Uniform Resource Identifiers) in hypermedia format. If this principle is implemented, the client does not require any further information apart from a basic understanding of hypermedia in order to be able to interact with the application or the server.
